@@ -44,7 +44,7 @@ const Portfolio = () => {
           </div>
           <div className="project-card">
             <h3>Osterio Annex</h3>
-            <p>A modern restaurant site with ordering and feedback features.</p>
+            <p>A x-ray tracker system that helps in easy Maintaining of x-ray machines.</p>
             <a href="https://github.com/sakshi0444/Osterio-Annex" target="_blank" rel="noreferrer">GitHub →</a>
           </div>
         </div>
